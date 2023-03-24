@@ -1,0 +1,113 @@
+.page {
+    width: 960px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: white;
+    height: auto;
+    width: auto;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+}
+
+.nav img {
+    display: flex;
+    width: 60px;
+    flex-direction: row;
+    gap: 80px;
+    justify-content: space-between;
+}
+
+.icons {
+    display: flex;
+    flex-direction: row;
+    padding-left: 260px;
+    padding-top: 35px;
+}
+
+.icons img {
+    width: 30px;
+    margin-inline: 2px;
+}
+
+#pint {
+    margin-right: 10px;
+}
+
+.main-body {
+    width: 900px;
+    height: 900px;
+}
+
+.left-top {
+    display: flex;
+    flex-direction: column;
+}
+
+.left-top h2 {
+    font-size: 40px;
+    height: 5px;
+}
+
+main img {
+    width: 900px;
+    padding-top: 20px;
+}
+
+main h3 {
+    font-weight: 50;
+    color: rgb(174, 172, 172);
+}
+
+.print {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.print img {
+    width: 20px;
+    height: 20px;
+    padding-right: 5px;
+}
+
+.heading {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+.heading h1 {
+    font-size: 50px;
+    height: 5px;
+}
+
+
+.print {
+    display: flex;
+    flex-direction: row;
+    width: 135px;
+}
+
+.print p {
+    color: rgb(174, 172, 172);
+}
+
+.top-page {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list {
+    background-image: url('note.png');
+}
+
+footer img {
+    padding-left: 30px;
+}

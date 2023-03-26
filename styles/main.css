@@ -144,6 +144,14 @@ ul {
     list-style-type: none;
 }
 
+ul li [type=checkbox]:checked ~ del {
+    text-decoration: line-through;
+}
+
+ul li del {
+text-decoration: none;
+}
+
 footer img {
     display: flex;
     flex-direction: row;

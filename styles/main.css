@@ -153,37 +153,32 @@ ul li del {
 text-decoration: none;
 }
 
-footer img {
+.profile {
+    display: flex;
+    flex-direction: row;
+}
+
+.profile img {
     display: flex;
     flex-direction: row;
     padding-right: 20px;
     width: 90px;
 }
 
-footer {
-    display: flex;
-    flex-direction: row;
-}
-
-.footer {
-    display: flex;
-    flex-direction: column;
-}
-
-.footer h3 {
-    height: 5px;
-}
-
-.footer p {
+.profile p {
     font-size: 20px;
 }
 
 button {
     width: 180px;
     height: 60px;
-    margin-left: 35px;
+    margin-left: 28px;
     text-align: center;
     margin-top: 20px;
     background-color: rgb(205, 105, 94);
     color: white;
+}
+
+footer {
+    text-align: center;
 }

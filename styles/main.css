@@ -46,7 +46,7 @@ body {
 .left-top {
     display: flex;
     flex-direction: column;
-    padding-bottom: 40px;
+    padding-bottom: 30px;
 }
 
 .left-top h2 {
@@ -90,7 +90,6 @@ main h3 {
     height: 5px;
 }
 
-
 .print {
     display: flex;
     flex-direction: row;
@@ -114,6 +113,7 @@ main h3 {
     padding-right: 50px;
     text-indent: 30px;
     font-size: 20px;
+    padding-bottom: 20px;
 }
 
 .container {
@@ -126,8 +126,8 @@ main h3 {
 .list-one {
     display: flex;
     position: absolute;
-    top: 182%;
-    left: 20%;
+    top: 276%;
+    left: 10%;
     font-size: 25px;
     text-decoration: none;
 }
@@ -135,8 +135,8 @@ main h3 {
 .list-two {
     display: flex;
     position: absolute;
-    top: 182%;
-    right: 25%;
+    top: 276%;
+    right: 20%;
     font-size: 25px;
     text-decoration: none;
 }

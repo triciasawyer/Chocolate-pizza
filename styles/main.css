@@ -126,8 +126,8 @@ main h3 {
 .list-one {
     display: flex;
     position: absolute;
-    top: 276%;
-    left: 10%;
+    top: 176%;
+    left: 19%;
     font-size: 25px;
     text-decoration: none;
 }
@@ -135,8 +135,8 @@ main h3 {
 .list-two {
     display: flex;
     position: absolute;
-    top: 276%;
-    right: 20%;
+    top: 176%;
+    right: 25%;
     font-size: 25px;
     text-decoration: none;
 }
